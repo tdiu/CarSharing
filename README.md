@@ -1,2 +1,1 @@
-A simple console-based car sharing project.
-Used to learn and practice basics of SQL and working with the H2 database.
+A simple console-based car sharing project that allows companies to rent out cars and find customers. Implemented to practice using SQL, JDBC, and the H2 database.
